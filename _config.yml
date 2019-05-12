@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '博客'
-description: ''
-keyword: ''
+title: '鹏君博客'
+description: '思维｜思想'
+keyword: '思维;思想'
 # A Project Pages site for a personal account is available at 
 # http(s)://<username>.github.io/<projectname> 
 url: 'https://0Pengjun.github.io' # your host
