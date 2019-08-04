@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: '鹏君博客'
-description: '思维｜思想'
+description: '记忆｜思维｜思想'
 keyword: '思维;思想'
 # A Project Pages site for a personal account is available at 
 # http(s)://<username>.github.io/<projectname> 
@@ -51,7 +51,8 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-
+  weibo: '//github.com/june111/june111.github.io'
+  email: 'mailto:'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
