@@ -9,7 +9,7 @@ url: 'https://0Pengjun.github.io' # your host
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
 avatar: '/assets/img/profile.jpg'
-qrcode: '/assets/img/profile.jpg'
+qrcode: '/assets/img/qrcode.jpg'
 
 # Navigation links
 nav:
@@ -52,8 +52,8 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//github.com/june111/june111.github.io'
-  email: 'mailto:'
+  weibo: '//weibo.com/opengjun'
+  email: 'mailto:z.pengjun@163.com'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
