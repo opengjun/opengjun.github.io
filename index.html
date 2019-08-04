@@ -77,6 +77,10 @@ header-img: /assets/img/sky.jpg
                 {% endif %}
             </section>
 
+            <section>
+                <img src="{{ site.qrcode | prepend: site.baseurl }}" alt="">
+            </section>
+
             {% if site.recommend-tags and site.tags.size>0 %}
             <section class="tags-card">
                 {% for tag in site.tags %}

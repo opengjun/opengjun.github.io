@@ -9,6 +9,7 @@ url: 'https://0Pengjun.github.io' # your host
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
 avatar: '/assets/img/profile.jpg'
+qrcode: '/assets/img/profile.jpg'
 
 # Navigation links
 nav:
